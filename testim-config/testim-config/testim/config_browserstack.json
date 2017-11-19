@@ -1,0 +1,12 @@
+{
+    "project": "my project",
+    "build": "build 4.5",
+    "browserstack.debug": false,
+    "browserstack.console": "info",
+    "browserstack.networkLogs": true,
+    "browserstack.video": false,
+    "browserstack.timezone": "New_York",
+    "browserstack.selenium_version": "3.5.2",
+    "browser_version": 61,
+    "resolution" : "2048x1536"
+}
